@@ -4,4 +4,4 @@ The chi-square test is a statistical method used to determine if there is a sign
 
 If the p-value is less than the significance level, reject the null hypothesis. That is, there is sufficient evidence to suggest an association between the variables. 
 
-Yates’s correction for continuity is a statistical adjustment applied to the chi-square test for independence, particularly when dealing with 2×2 contingency tables. This correction is used to reduce the bias that can occur when the sample size is small and the expected frequencies are low.
+Yates’s correction for continuity is a statistical adjustment applied to the chi-square test for independence, which is used to reduce the bias that can occur when the sample size is small and the expected frequencies are low.
